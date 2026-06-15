@@ -500,17 +500,16 @@ npm install
 
 ## لایسنس و مالکیت
 
-© ۲۰۲۴ NEXUS Seal & Bearing GmbH. تمامی حقوق محفوظ است.
+©  NEXUS Seal & Bearing GmbH. تمامی حقوق محفوظ است.
 
-این کد برای استفاده داخلی شرکت NEXUS طراحی شده است. هرگونه بازتوزیع بدون اجازه کتبی ممنوع است.
-
+این کد برای استفاده داخلی شرکت NEXUS طراحی شده است.
+© Hamidreza Borzuei | 2026
 ---
 
 <div align="center">
 
 **ساخته‌شده با ❤️ و دقت مهندسی آلمانی**
 
-[🌐 وب‌سایت](https://nexusseal.de) · [📧 تماس](mailto:technical@nexusseal.de) · [📦 کاتالوگ فنی](https://nexusseal.de/catalog)
 
 </div>
 

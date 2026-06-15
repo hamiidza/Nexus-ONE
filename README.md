@@ -502,13 +502,14 @@ npm install
 
 ©  NEXUS Seal & Bearing GmbH. تمامی حقوق محفوظ است.
 
+
 این کد برای استفاده داخلی شرکت NEXUS طراحی شده است.
-© Hamidreza Borzuei | 2026
 ---
 
 <div align="center">
 
-**ساخته‌شده با ❤️ و دقت مهندسی آلمانی**
+**© Hamidreza Borzuei | 2026
+**
 
 
 </div>

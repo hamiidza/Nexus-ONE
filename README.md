@@ -77,7 +77,7 @@ nexus-seal/
 ├── vite.config.js                # پیکربندی Vite
 ├── postcss.config.js             # پیکربندی PostCSS
 ├── package.json                  # وابستگی‌ها و اسکریپت‌ها
-└── README.md                     # همین فایل
+└── README.md                     
 ```
 
 ---
@@ -500,7 +500,7 @@ npm install
 
 ## لایسنس و مالکیت
 
-©  NEXUS Seal & Bearing GmbH. تمامی حقوق محفوظ است.
+NEXUS Seal & Bearing GmbH. تمامی حقوق محفوظ است.
 
 
 این کد برای استفاده داخلی شرکت NEXUS طراحی شده است.
